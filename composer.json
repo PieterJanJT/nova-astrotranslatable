@@ -27,8 +27,7 @@
   "license": "MIT",
   "require": {
     "php": ">=8.2",
-    "laravel/nova": "^5.0",
-    "astrotomic/laravel-translatable": "^11.10"
+    "laravel/nova": "^5.0"
   },
   "require-dev": {
     "laravel/nova-devtool": "^1.0"
